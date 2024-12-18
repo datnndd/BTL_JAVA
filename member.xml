@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<members>
+    <member>
+        <idMember>1</idMember>
+        <fullName>Nguyen Doan Dat</fullName>
+        <age>20</age>
+        <gender>true</gender>
+        <phoneNumber>0385811688</phoneNumber>
+        <address>Ha Noi</address>
+        <memberCard>Silver</memberCard>
+    </member>
+    <member>
+        <idMember>2</idMember>
+        <fullName>NguyenDoanDat</fullName>
+        <age>12</age>
+        <gender>true</gender>
+        <phoneNumber>1234567890</phoneNumber>
+        <address>HaNoi</address>
+        <memberCard>Silver</memberCard>
+    </member>
+    <member>
+        <idMember>3</idMember>
+        <fullName>Nguyen Van Dat</fullName>
+        <age>22</age>
+        <gender>false</gender>
+        <phoneNumber>1234567890</phoneNumber>
+        <address>Ha Noi</address>
+        <memberCard>Gold</memberCard>
+    </member>
+    <member>
+        <idMember>4</idMember>
+        <fullName>Hien Ho</fullName>
+        <age>18</age>
+        <gender>true</gender>
+        <phoneNumber>1234567890</phoneNumber>
+        <address>asd</address>
+        <memberCard>Silver</memberCard>
+    </member>
+    <member>
+        <idMember>5</idMember>
+        <fullName>Nguyen Thi A</fullName>
+        <age>12</age>
+        <gender>false</gender>
+        <phoneNumber>2356897410</phoneNumber>
+        <address>Ha Noi</address>
+        <memberCard>Premium</memberCard>
+    </member>
+</members>
